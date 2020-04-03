@@ -9,7 +9,7 @@ namespace FedTime.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Charge { get; set; }
+        public string ChargeAgency { get; set; }
         public string Location { get; set; }
     }
 }
